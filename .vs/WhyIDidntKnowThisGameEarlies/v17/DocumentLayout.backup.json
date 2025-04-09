@@ -1,117 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A552957A-060A-4D3B-A69A-8AA4FAC482E4}|WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies.csproj|d:\\vsprojects\\whyididntknowthisgameearlies\\whyididntknowthisgameearlies\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A552957A-060A-4D3B-A69A-8AA4FAC482E4}|WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies.csproj|solutionrelative:whyididntknowthisgameearlies\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A552957A-060A-4D3B-A69A-8AA4FAC482E4}|WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies.csproj|D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\whyididntknowthisgameearlies\\speccontrols\\specialcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A552957A-060A-4D3B-A69A-8AA4FAC482E4}|WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies.csproj|solutionrelative:whyididntknowthisgameearlies\\speccontrols\\specialcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A552957A-060A-4D3B-A69A-8AA4FAC482E4}|WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies.csproj|D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\whyididntknowthisgameearlies\\sessionlogic\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A552957A-060A-4D3B-A69A-8AA4FAC482E4}|WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies.csproj|solutionrelative:whyididntknowthisgameearlies\\sessionlogic\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A552957A-060A-4D3B-A69A-8AA4FAC482E4}|WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies.csproj|D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\whyididntknowthisgameearlies\\sessionlogic\\mapdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A552957A-060A-4D3B-A69A-8AA4FAC482E4}|WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies.csproj|solutionrelative:whyididntknowthisgameearlies\\sessionlogic\\mapdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A552957A-060A-4D3B-A69A-8AA4FAC482E4}|WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies.csproj|D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\whyididntknowthisgameearlies\\sessionlogic\\replaydrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A552957A-060A-4D3B-A69A-8AA4FAC482E4}|WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies.csproj|solutionrelative:whyididntknowthisgameearlies\\sessionlogic\\replaydrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A552957A-060A-4D3B-A69A-8AA4FAC482E4}|WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies.csproj|D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\whyididntknowthisgameearlies\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A552957A-060A-4D3B-A69A-8AA4FAC482E4}|WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies.csproj|solutionrelative:whyididntknowthisgameearlies\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 5,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SpecialControl.cs",
-              "DocumentMoniker": "D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies\\SpecControls\\SpecialControl.cs",
-              "RelativeDocumentMoniker": "WhyIDidntKnowThisGameEarlies\\SpecControls\\SpecialControl.cs",
-              "ToolTip": "D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies\\SpecControls\\SpecialControl.cs",
-              "RelativeToolTip": "WhyIDidntKnowThisGameEarlies\\SpecControls\\SpecialControl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
-              "WhenOpened": "2025-04-08T15:31:39.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MapDrawer.cs",
-              "DocumentMoniker": "D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies\\SessionLogic\\MapDrawer.cs",
-              "RelativeDocumentMoniker": "WhyIDidntKnowThisGameEarlies\\SessionLogic\\MapDrawer.cs",
-              "ToolTip": "D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies\\SessionLogic\\MapDrawer.cs",
-              "RelativeToolTip": "WhyIDidntKnowThisGameEarlies\\SessionLogic\\MapDrawer.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAIwCUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T15:31:39.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Session.cs",
-              "DocumentMoniker": "D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies\\SessionLogic\\Session.cs",
-              "RelativeDocumentMoniker": "WhyIDidntKnowThisGameEarlies\\SessionLogic\\Session.cs",
-              "ToolTip": "D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies\\SessionLogic\\Session.cs",
-              "RelativeToolTip": "WhyIDidntKnowThisGameEarlies\\SessionLogic\\Session.cs",
-              "ViewState": "AQIAAL8AAAAAAAAAAAAQwFkAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T15:31:39.903Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ReplayDrawer.cs",
-              "DocumentMoniker": "D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies\\SessionLogic\\ReplayDrawer.cs",
-              "RelativeDocumentMoniker": "WhyIDidntKnowThisGameEarlies\\SessionLogic\\ReplayDrawer.cs",
-              "ToolTip": "D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies\\SessionLogic\\ReplayDrawer.cs",
-              "RelativeToolTip": "WhyIDidntKnowThisGameEarlies\\SessionLogic\\ReplayDrawer.cs",
-              "ViewState": "AQIAAJMBAAAAAAAAAAAqwPoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T15:31:39.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies\\Form1.cs",
-              "RelativeDocumentMoniker": "WhyIDidntKnowThisGameEarlies\\Form1.cs",
-              "ToolTip": "D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies\\Form1.cs",
-              "RelativeToolTip": "WhyIDidntKnowThisGameEarlies\\Form1.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA7wC0AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T15:31:39.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies\\Form1.cs",
-              "RelativeDocumentMoniker": "WhyIDidntKnowThisGameEarlies\\Form1.cs",
-              "ToolTip": "D:\\VSProjects\\WhyIDidntKnowThisGameEarlies\\WhyIDidntKnowThisGameEarlies\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "WhyIDidntKnowThisGameEarlies\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T15:31:40.153Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

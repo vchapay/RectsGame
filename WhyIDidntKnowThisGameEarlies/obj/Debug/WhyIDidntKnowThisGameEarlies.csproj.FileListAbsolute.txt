@@ -51,3 +51,4 @@ D:\VSProjects\WhyIDidntKnowThisGameEarlies\WhyIDidntKnowThisGameEarlies\obj\Debu
 D:\VSProjects\WhyIDidntKnowThisGameEarlies\WhyIDidntKnowThisGameEarlies\obj\Debug\WhyIDidn.6C88D744.Up2Date
 D:\VSProjects\WhyIDidntKnowThisGameEarlies\WhyIDidntKnowThisGameEarlies\obj\Debug\WhyIDidntKnowThisGameEarlies.exe
 D:\VSProjects\WhyIDidntKnowThisGameEarlies\WhyIDidntKnowThisGameEarlies\obj\Debug\WhyIDidntKnowThisGameEarlies.pdb
+D:\VSProjects\WhyIDidntKnowThisGameEarlies\WhyIDidntKnowThisGameEarlies\bin\Debug\WhyIDidntKnowThisGameEarlies.pdb
